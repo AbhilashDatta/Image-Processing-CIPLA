@@ -3,3 +3,4 @@ mediapipe
 numpy
 imutils
 smtplib
+msvc-runtime
