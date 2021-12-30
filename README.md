@@ -33,7 +33,7 @@ Computer Vision Models for Surveillance Cameras inside CIPLA Labs
 
 ## Motion Detector
 <li>Change the video feed to the path of the video or let it be 0 to use it on Web Camera</li>
-<li>Run the cell start the lean detector</li>
+<li>Run the cell start the motion detector</li>
 <li>Press the 'q' button to Quit</li>
 <hr>
 
